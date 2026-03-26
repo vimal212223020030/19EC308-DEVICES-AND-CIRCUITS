@@ -33,8 +33,10 @@ current I D . Tabulate all the readings.
 
 # TABULATION:
 # DRAIN CHARACTERISTICS:
+![WhatsApp Image 2026-03-23 at 9 12 02 PM](https://github.com/user-attachments/assets/f0a46baf-ab47-471d-a663-ce6c7ca2810f)
 
 # TRANSFER CHARACTERISTICS:
+![WhatsApp Image 2026-03-23 at 9 12 16 PM](https://github.com/user-attachments/assets/63ccf705-f565-463b-8e93-55fba80ea9ff)
 
 # MODEL GRAPH:
 
@@ -42,6 +44,7 @@ current I D . Tabulate all the readings.
 <img width="1098" height="460" alt="image" src="https://github.com/user-attachments/assets/f2570b25-b339-4a9c-9c90-19e9a59b5051" />
 
 # GRAPH:
+![WhatsApp Image 2026-03-23 at 9 12 39 PM](https://github.com/user-attachments/assets/a7dd8c59-4688-48e0-9ccc-52ccbff6c693)
 
 # CALCULATION:
 1. Threshold voltage V T : Gate to source voltage at which, drain current starts flowing.
@@ -53,7 +56,6 @@ gm = Δ I D / ΔV GS at constant V DS
 rd or ro = ΔVDS/ΔID at a constant VGS
 
 # RESULTS:
-1. V T : ________
-2. gm : ________
-3. ro : ________
-
+1. V T : 0.50KOHM
+2. gm : 1.5*10^-3 OHM
+3. ro : 0.75
